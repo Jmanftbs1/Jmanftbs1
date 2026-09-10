@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Jmanftbs1
-- 👀 I’m interested in ...coding hacking all things computer
-- 🌱 I’m currently learning ... Python and ethical hacking
-- 💞️ I’m looking to collaborate on ...on coding virus and making hacking software
+- 👋 Hi, 
+- 
 - 📫 How to reach me ... this is my email jlstattoos@gmail.com
 
 <!---
